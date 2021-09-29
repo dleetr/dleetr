@@ -11,7 +11,7 @@ A friendly reminder from the past to do something with this page; even on first 
     - Note Software:
       - [A fairly recent note-taking software: Obsidian](https://obsidian.md/)
         - I have a small idea for an extension that might let users share notebooks via p2p requests. I must understand more first.
-      - [Notion](https://www.notion.so/).
+      - [Notion](https://www.notion.so/)
   - Building a Chromium extension to streamline browsing
     - I'm working (slowly) on this; I don't have the repo published yet. 
     - Rambling Thoughts:
