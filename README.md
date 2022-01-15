@@ -13,7 +13,7 @@ A friendly reminder from the past to do something with this page; even on first 
         - I have a small idea for an extension that might let users share notebooks via p2p requests. I must understand more first.
       - [Notion](https://www.notion.so/)
       - I'm currently researching the p2p note share idea as a kind of "engine" that integrates into note taking software. I enjoy using Obsidian but there's no reason to lock into its ecosystem.
-  - Building a Chromium extension to streamline browsing
+  - Building a Web extension to streamline browsing
     - I'm working (slowly) on this; I don't have the repo published yet. 
     - Rambling Thoughts:
       - *Motivations*:
@@ -33,7 +33,7 @@ A friendly reminder from the past to do something with this page; even on first 
         - *A single-channel experience*. The idea of a bookmark, a reading list, a group of tabs, it all has to go. We must wipe the slate clean as we often do upon success
         in our knowledge quest. If we continue with this myriad of tools we will have just that: a myriad of knowledge - chaos.
 - 🌱 I’m currently learning ...
-  - Svelte
+  - Vue
   - Snowpack
   - Ways to become more productive that are actually meaningful and not just performed outright.
   - What I want to do with this page.
