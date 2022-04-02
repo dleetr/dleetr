@@ -36,6 +36,9 @@ A friendly reminder from the past to do something with this page; even on first 
   - Rust
   - Webpack
   - Snowpack
+  - Wasm
+  - Webgl
+  - ThreeJS
 - 💞️ I’m looking to collaborate on ...
   - Resources to improve as an early in career developer. Traversing the collective mountain of human knowledge and trying to catch up sometimes feels like an insurmountable task.
   - Projects involving *rust, wasm, webgl*
